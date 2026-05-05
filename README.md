@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @jknyaba
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on snapchat @j_nya1 or insta @jknyaba_
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+About
+
+I write code, build projects, and continuously improve my problem-solving skills. Currently focused on strengthening my fundamentals and working toward real-world systems.
+
+Contact
+
+https://github.com/jknyaba
 
 <!---
 jknyaba/jknyaba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
